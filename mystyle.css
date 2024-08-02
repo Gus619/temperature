@@ -1,0 +1,20 @@
+h1{
+    border-radius: 10px;
+    background-color: red
+    ;
+}
+
+button {
+
+    background-color: teal;
+}
+body{
+    
+    background-color:antiquewhite;
+    text-align: center;
+    margin: 200px;
+}
+p{
+    background-color: tan;
+}
+
